@@ -1,1 +1,30 @@
-sss
+#heading{
+  color: brown;
+  /* align-items: center; */
+  text-align: center;
+  border: 5px solid green;
+  margin: 10px;
+  padding: 5px;
+}
+
+.em{
+  color: rgb(21, 12, 81);
+  border: 8px dotted red;
+  padding: -1px;
+  border-radius: 10px;
+}
+
+#head2{
+  font-size: x-large;
+  border: 5px solid yellow;
+  text-align: center;
+}
+
+ol{
+  border: 5px solid darkkhaki;
+  background-color: aqua;
+  font-size: x-large;
+  padding: -1px;
+  box-shadow: 10px 8px 5px 3px;
+  
+}
